@@ -39,6 +39,6 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 - CWE-200​ Exposure of Sensitive Information to an Unauthorized Actor
 
 ## Scope of influence
-- fofa：app="body="/bi/portal/manifest.json" || body="js/lib/ba.common.js" && body="用友""
-<img width="1319" height="642" alt="image" src="https://github.com/user-attachments/assets/b100df1d-c1b1-41a5-9280-ca81d806d332" />
+- fofa：body="YonBIP | 数据应用服务"
+<img width="1184" height="557" alt="image" src="https://github.com/user-attachments/assets/24ddd5fd-2868-4db4-9f6a-4222ed0ace7e" />
 
