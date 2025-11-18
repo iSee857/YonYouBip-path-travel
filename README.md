@@ -3,7 +3,7 @@ In the specific interface of UFIDA bip, there is processing ./Incorrect referenc
 
 ## Affected Repository
 - Project: YonYouBip
-- Affect versions: YonYouBip V3.0(R6_2407)
+- Affect versions: YonYouBip V3,V5
 - File: /bi/api/Portal/LoginWithV8/?ticket=
 - homePage: https://www.yonyou.com/
 - Dependency: In the specific interfaces of UFIDA BIP, incorrect referencing as a read path when processing "../cross-path symbols" leads to a path traversal vulnerability
