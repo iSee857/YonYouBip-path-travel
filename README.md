@@ -1,7 +1,8 @@
-# YonYouBip-path-travel
+# YonYouBip-path-travel  CVE-2025-66744
 In the specific interface of UFIDA bip, there is processing ./Incorrect reference to read path when crossing path symbols leads to path traversal vulnerability.
 
 ## Affected Repository
+- CVEID:  CVE-2025-66744
 - Project: YonYouBip
 - Affect versions: YonYouBip-数据应用服务,2024930版本
 - File: /bi/api/Portal/LoginWithV8/?ticket=
